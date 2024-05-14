@@ -1,3 +1,3 @@
 # My_Quize
 This is my quize project
-Author - Megha Charawande
+Author - Megha Charawande(change)
